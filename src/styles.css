@@ -24,19 +24,13 @@ body {
   width: 760px;
   max-width: 100%;
   margin: auto;
-<<<<<<< HEAD
   padding: 20px;
-=======
->>>>>>> 69cac24 (Added the bottom section)
 }
 
 .section {
   height: 450px;
   width: 100%;
-<<<<<<< HEAD
-=======
-  margin-top: 20px;
->>>>>>> 69cac24 (Added the bottom section)
+  margin-top: 0;
   display: flex;
   justify-content: center;
   align-items: center;
